@@ -1,6 +1,6 @@
-# Mia – English Companion
-
 ## Resumen
+
+ # Mia – English Companion
 Mia es una asistente conversacional basada en inteligencia artificial que ayuda a las personas a practicar inglés de forma natural, emocional y sin presión. Su enfoque principal es eliminar el miedo a hablar, permitiendo que el usuario aprenda mediante conversaciones reales, adaptativas y cercanas.
 
 ---
